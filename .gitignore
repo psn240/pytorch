@@ -89,6 +89,6 @@ ENV/
 .ropeproject
 
 #Project settings
-.txt
-.csv
-.pt
+*.txt
+*.csv
+*.pt
